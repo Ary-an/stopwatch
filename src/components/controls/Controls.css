@@ -1,0 +1,10 @@
+.controls__container > button {
+  margin: 15px;
+  background-color: #e5ad3d;
+  color: #222;
+  padding: 8px 16px;
+  font-size: 1.3rem;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}

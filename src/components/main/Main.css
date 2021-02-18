@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  background-color: #282c34;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.time_container {
+  color: #ccc;
+  display: flex;
+  letter-spacing: 2px;
+}
+
+.time_container span {
+  position: relative;
+  top: 5px;
+  font-size: 4rem;
+}
+
+.timer_text {
+  margin: 0;
+  font-size: 5rem;
+}
